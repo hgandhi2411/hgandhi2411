@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-👩‍💻 I'm a **Computational Chemist**, working on applying machine learning for molecules 💻  + 🧪 = 😎\
-👀 Looking to network with other computational scientists\
-💬 Ask me about **Python scripting, Molecular Dynamics and Machine learning**\
+👩‍💻 I'm a **Machine learning scientist**, working on applying ML techniques for drug discovery application 💻  + 🧪 = 😎\
+🦙 Currently learning about LLMs and AI agents
+👀 Looking to network with other computational scientists and reserachers\
+💬 Ask me about **Python scripting, Drug discovery and Machine learning**\
 📫 Reach me at [@gandhi_heta](https://twitter.com/gandhi_heta)
 
 
